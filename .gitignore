@@ -1,0 +1,60 @@
+# ======================================
+# Python bytecode / cache
+# ======================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ======================================
+# Virtual environments
+# ======================================
+NEWPROJECTENV/
+.env/
+.venv/
+venv/
+ENV/
+env/
+pyvenv.cfg
+
+# ======================================
+# PyInstaller build artifacts
+# ======================================
+build/
+dist/
+*.spec
+
+# PyInstaller internal files
+*.toc
+*.pyz
+*.pkg
+*.log
+*.html
+warn-*.txt
+xref-*.html
+base_library.zip
+localpycs/
+
+# ======================================
+# OS / Editor junk
+# ======================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# ======================================
+# Logs & temp files
+# ======================================
+*.log
+*.tmp
+*.temp
+
+# ======================================
+# Archives
+# ======================================
+*.zip
+*.tar
+*.gz
